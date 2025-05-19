@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
-				"C:/Users/COMP5239871/Documents/GitHub/GroupProject/Content/Maps/Dev_LvL.umap",
+				"C:/Users/Comp5226883/Documents/GitHub/GroupProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Comp5226883/Documents/GitHub/GroupProject/Content/Maps/Dev_LvL.umap",
+				"C:/Users/Comp5226883/Documents/GitHub/GroupProject/Content/ThirdPerson/Blueprints/bp_sun.uasset",
 				"C:/Users/COMP5239871/Documents/Unreal Projects/Experiments/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/COMP5239871/Documents/Unreal Projects/Experiments/Content/Maps/Map_Environment.umap",
 				"C:/Users/COMP5239871/Documents/Unreal Projects/Experiments/Content/Fab/Megascans/Materials/M_Landmass.uasset",
